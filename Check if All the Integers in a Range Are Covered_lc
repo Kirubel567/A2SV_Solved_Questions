@@ -1,0 +1,9 @@
+class Solution:
+    def isCovered(self, ranges: List[List[int]], left: int, right: int) -> bool:
+        check = set(range(left, right+1))
+
+        Set = set()
+        for j in range(len(ranges)): 
+            Set.update(range(ranges[j][0], ranges[j][1]+1))
+
+        return check <= Set
