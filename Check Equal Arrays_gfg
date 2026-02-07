@@ -1,0 +1,13 @@
+class Solution:
+    def checkEqual(self, a, b) -> bool:
+        #code here
+        #use dictionary with hash man 
+        freq_a = {}
+        freq_b = {}
+        
+        for i in range(len(a)): 
+            freq_a[a[i]] = freq_a.get(a[i], 0) + 1
+        for j in range(len(b)): 
+            freq_b[b[j]] = freq_b.get(b[j], 0) + 1
+        
+        return freq_a == freq_b
