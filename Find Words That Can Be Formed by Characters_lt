@@ -1,0 +1,18 @@
+class Solution:
+    def countCharacters(self, words: List[str], chars: str) -> int:
+        #use dictionary for a better access 
+        characters = {}
+        for i in range(len(chars)): 
+            characters[chars[i]] = characters.get(chars[i], 0) +1
+        
+        ans = 0
+        for i in range(len(words)): 
+            temp = characters.copy()
+            for j in range(len(words[i])): 
+                if temp.get(words[i][j], 0) ==0: 
+                    break
+                temp[words[i][j]] -=1
+            else: 
+                ans += len(words[i])
+        
+        return ans 
