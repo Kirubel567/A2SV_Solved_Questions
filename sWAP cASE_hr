@@ -1,0 +1,8 @@
+def swap_case(s):
+    ans = ""
+    for ch in s: 
+        if not ch.isalpha(): 
+            ans += ch
+            continue
+        ans += (ch.lower() if ch.isupper() else ch.upper())
+    return ans 
