@@ -1,0 +1,13 @@
+class Solution:
+    def separateDigits(self, nums: List[int]) -> List[int]:
+        ans = []
+
+        for i in range(len(nums)): 
+            for num in str(nums[i]): 
+                ans.append(int(num))
+            
+        
+        return ans 
+
+
+#1, 7m
