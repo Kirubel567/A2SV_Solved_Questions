@@ -1,0 +1,12 @@
+class Solution:
+    def restoreString(self, s: str, indices: List[int]) -> str:
+        mapp = {}
+        ans = [0] * len(indices)
+        for i in range(len(indices)): 
+            mapp[i] = indices[i]
+        
+        for i in range(len(s)): 
+            ans[mapp[i]] = s[i]
+        
+        return "".join(ans)
+#1, 5min
