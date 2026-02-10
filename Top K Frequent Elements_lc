@@ -1,0 +1,8 @@
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        mapp = Counter(nums)
+        ans = []
+        for key in mapp.most_common(k): 
+            ans.append(key[0])
+        return ans
+#1, 5m
