@@ -1,0 +1,60 @@
+class RandomizedSet:
+
+    def __init__(self):
+        #use two dictionaries the first taking the val as a key
+        #the sedond to take the index as a key for the getRandom func
+        #use a variable to store the length of the dictionary(the same for both)
+        self.val_map = {}
+        self.idx_map = {}
+        self.length = 0
+
+    def insert(self, val: int) -> bool:
+        #just initialize the value as a key in the val_map and in the idx_map and add the length by one 
+        present = val in self.val_map 
+        if not present: #if present we just want to jump it 
+            self.val_map[val] = self.length 
+            self.idx_map[self.length] = val
+        
+            self.length += 1 #add the length by one 
+
+        return False if present else True 
+
+    def remove(self, val: int) -> bool:
+        #when removing, remove the idx and the val, and decreament by one 
+        #but here when removing the idx key we are removing a key but the legnth still have the idx as a value, that could cause a problem if the random number is that 
+        present = val in self.val_map 
+
+        if present:
+            #make the current deleted idx hold the last_value 
+            #and the last_value move the the 
+            idx_to_remove = self.val_map[val]
+
+            #last element 
+            last_idx = self.length-1
+            last_val = self.idx_map[last_idx]
+
+            #bring the last element to idx
+            self.idx_map[idx_to_remove] = last_val
+            self.val_map[last_val] = idx_to_remove
+
+
+            del self.idx_map[last_idx] 
+            del self.val_map[val]
+            
+            self.length -= 1
+        
+
+        return True if present else False 
+    def getRandom(self) -> int:
+        random_idx = randint(0, self.length-1)
+
+        return self.idx_map[random_idx]
+
+
+# Your RandomizedSet object will be instantiated and called as such:
+# obj = RandomizedSet()
+# param_1 = obj.insert(val)
+# param_2 = obj.remove(val)
+# param_3 = obj.getRandom()
+
+#3, 63min
