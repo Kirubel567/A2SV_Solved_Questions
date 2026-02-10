@@ -1,0 +1,21 @@
+class Solution:
+    def intToRoman(self, num: int) -> str:
+        #3749 = 3000 + 700 + 40 + 9
+        #3000 is greater thatn 1000 so divide 3000 by 1000 to get the number of M
+        #700 is greater than 500(D) and 100(C) so to get the number of 100 divide the difference between (number > 500) - 500//100 
+
+        #start your control flow from the highest heading to the lowest 
+        
+        res =[]
+        nums = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4,1]
+        mapp = {1000: "M", 900: "CM", 500: "D",400:"CD", 100: "C", 90:"XC", 50:"L", 40:"XL", 10:"X", 9:"IX",5:"V", 4:"IV", 1:"I",}
+
+        i = 0
+        while i < len(nums): 
+            if num >= nums[i]: 
+                num -= nums[i]
+                res.append(mapp[nums[i]])
+            else: 
+                i += 1
+
+        return "".join(res)
