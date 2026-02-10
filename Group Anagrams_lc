@@ -1,0 +1,11 @@
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        mapp = defaultdict(list)
+
+        for st in strs:
+            sorted_str = sorted(st)
+            print(sorted_str)
+            mapp[tuple(sorted_str)].append(st)
+        return list(mapp.values())
+        
+#3, 24m
