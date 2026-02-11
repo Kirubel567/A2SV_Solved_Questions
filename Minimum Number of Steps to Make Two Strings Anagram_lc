@@ -1,0 +1,12 @@
+class Solution:
+    def minSteps(self, s: str, t: str) -> int:
+        counter1 = Counter(s)
+        counter2 = Counter(t)
+        counter = 0
+
+        for key, value in counter1.items(): 
+            tValue = counter2.get(key, 0)
+            if tValue < value: 
+                counter += value - tValue 
+          
+        return counter 
