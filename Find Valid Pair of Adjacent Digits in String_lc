@@ -1,0 +1,10 @@
+class Solution:
+    def findValidPair(self, s: str) -> str:
+        freq = Counter(s)
+        for i in range(len(s)-1): 
+            num = int(s[i])
+            num_plus = int(s[i+1])
+            if num == freq[s[i]] and num_plus != num and num_plus == freq[s[i+1]]: 
+                return s[i]+s[i+1]
+
+        return ""
