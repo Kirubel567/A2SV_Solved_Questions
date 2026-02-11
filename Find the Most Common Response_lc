@@ -1,0 +1,13 @@
+class Solution:
+    def findCommonResponse(self, responses: List[List[str]]) -> str:
+        freq ={}
+
+        for arr in responses: 
+            arr = list(set(arr))
+            for ch in arr: 
+                freq[ch] = freq.get(ch, 0)+1
+                
+        max_freq = max(freq.values())
+
+        candidates = [key for key in freq if freq[key] == max_freq]
+        return min(candidates)
