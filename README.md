@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
