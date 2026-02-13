@@ -36,6 +36,7 @@
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
