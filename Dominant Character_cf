@@ -1,0 +1,17 @@
+t = int(input())
+
+for _ in range(t): 
+    n = int(input())
+    
+    st = input()
+    
+    if "aa" in st: 
+        print(2)
+    elif "aba" in st or "aca" in st: 
+        print(3)
+    elif "abca" in st or "acba" in st: 
+        print(4)
+    elif "abbacca" in st or "accabba" in st: 
+        print(7)
+    else: 
+        print(-1)
