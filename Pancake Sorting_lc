@@ -1,0 +1,21 @@
+class Solution:
+    def pancakeSort(self, arr: List[int]) -> List[int]:
+        #find the maximum in each iteration
+        #then swap it to the first and then put it to the end
+        #do this iteration up until the last idx (decremeant by one everytime from the last not to take the last large number from the right place)
+        #as the numbers are the permutation of len(arr) we can find the max number by lent(nums) and the subsequent local maximums by deducting one 
+        Max = len(arr)
+        ans = []
+        for i in range(len(arr)): 
+            k = arr.index(Max) #find the current k
+            arr = arr[:k+1][::-1] + arr[k+1:] #bring it to the front
+        
+            ans.append(k+1)
+            #then make it to the end 
+            arr = arr[:Max][::-1] #here you don't reverse the whole thing
+            #1,3,2,4
+            ans.append(Max)
+            #k = 4
+            Max -= 1
+            
+        return ans 
