@@ -1,0 +1,10 @@
+t = int(input())
+
+contests = list(map(int, input().split()))
+contests.sort()
+day, count = 1, 0
+for i in range(len(contests)): 
+    if day <= contests[i]: 
+        count += 1
+        day += 1
+print(count)
