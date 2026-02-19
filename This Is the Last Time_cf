@@ -1,0 +1,13 @@
+t = int(input())
+for _ in range(t): 
+    n, coins = map(int, input().split())
+    arr = []
+    for _ in range(n): 
+        l, r, real = map(int, input().split())
+        arr.append((l, real, r))
+    
+    arr.sort(key=lambda x: x[0])
+    for tup in arr: 
+        if coins >= tup[0] and coins <= tup[2]:
+            coins = max(coins, tup[1])
+    print(coins)
