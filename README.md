@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -53,6 +54,7 @@
 | [0054-spiral-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
@@ -122,5 +124,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
