@@ -9,10 +9,8 @@ class Solution:
         not_inc = []
         for i in range(len(order)): 
             ans.extend([order[i]] * freq[order[i]])
-        for i in range(len(s)): 
-            if s[i] not in order: 
-                not_inc.append(s[i])
-                
+        not_inc = [ss for ss in s if ss not in order]
+
         return "".join(ans) + "".join(not_inc)
             
         
