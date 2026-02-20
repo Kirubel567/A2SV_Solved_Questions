@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
@@ -26,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -37,6 +39,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -46,6 +49,7 @@
 | [0048-rotate-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
