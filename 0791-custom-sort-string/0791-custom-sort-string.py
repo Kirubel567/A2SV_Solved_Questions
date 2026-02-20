@@ -2,6 +2,7 @@ class Solution:
     def customSortString(self, order: str, s: str) -> str:
         #count the freq of the order string 
         #based on that populate the output string 
+        # use default dict to store al lthe indexes where a character is found
         freq = Counter(s)
 
         ans = [""] * len(s)
