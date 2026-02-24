@@ -79,6 +79,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Bit Manipulation
