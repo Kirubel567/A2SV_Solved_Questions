@@ -15,6 +15,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
 |  |
@@ -40,6 +41,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Counting
 |  |
@@ -68,6 +70,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -75,6 +78,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
