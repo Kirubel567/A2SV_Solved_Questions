@@ -1,15 +1,14 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        l, ans, window = 0, -float('inf'), 0
-        count = defaultdict(int)
+        l, ans = 0, -float('inf')
+        counter = [0]*26
 
-        for right in range(len(s)): 
-            count[s[right]] += 1
-            window += 1
-            while window - max(count.values()) > k: 
-                count[s[l]] -= 1
-                l+= 1
-                window -= 1
-            ans = max(window, ans)
-                
+        for r in range(len(s)): 
+            counter[ord(s[r])-ord('A')] += 1
+            
+            while (r-l+1) - max(counter) > k: 
+                counter[ord(s[l])-ord('A')]-=1
+                l+=1
+            
+            ans = max(ans, r-l+1)
         return ans 
