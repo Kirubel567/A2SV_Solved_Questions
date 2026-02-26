@@ -1,0 +1,17 @@
+class Solution:
+    def longestSubarray(self, nums: List[int]) -> int:
+        left, count, ans = 0, -1,-float('inf')
+        zero_cnt = {}
+        for r in range(len(nums)): 
+            if nums[r] == 0: 
+                zero_cnt[0] = zero_cnt.get(0, 0) + 1
+
+            count +=1
+            while zero_cnt.get(0, 0) > 1: 
+                if nums[left] == 0: 
+                    zero_cnt[0] -= 1
+                count -= 1
+                left += 1
+            ans = max(ans, count)
+        return ans
+            
