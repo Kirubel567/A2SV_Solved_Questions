@@ -8,4 +8,4 @@ class Solution:
             if citations[i] >= h:
                 return h
         
-        return 0
+        return 0 
