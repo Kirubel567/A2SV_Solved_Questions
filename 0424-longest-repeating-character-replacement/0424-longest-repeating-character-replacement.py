@@ -6,14 +6,10 @@ class Solution:
         for right in range(len(s)): 
             count[s[right]] += 1
             window += 1
-
-
             while window - max(count.values()) > k: 
                 count[s[l]] -= 1
                 l+= 1
                 window -= 1
-            
             ans = max(window, ans)
                 
-        
         return ans 
