@@ -10,6 +10,7 @@
 | [0290-word-pattern](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -24,6 +25,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
