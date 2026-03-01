@@ -1,0 +1,42 @@
+from collections import Counter
+
+t_cases = int(input())
+
+for _ in range(t_cases): 
+    def solve(): 
+        s = input() 
+        t = input()  
+        
+        count_s = Counter(s)
+        count_t = Counter(t)
+    
+        for char, freq in count_s.items():
+            if freq > count_t.get(char, 0):
+                return "Impossible"
+        w_out_s = []
+        for char, freq in count_t.items():
+            w_out_s.extend([char] * (freq - count_s.get(char, 0)))
+    
+        w_out_s.sort()
+        
+        pos = len(w_out_s)
+        for i in range(len(w_out_s)):
+            if w_out_s[i] >= s[0]:
+                pos = i
+                break
+        ans = w_out_s[:pos]
+        i, j = 0, pos
+
+        while i < len(s) and j < len(w_out_s): 
+            if s[i] <= w_out_s[j]: 
+                ans.append(s[i])
+                i+=1
+            else: 
+                ans.append(w_out_s[j])
+                j+=1
+        ans.extend(w_out_s[j:])
+        ans.extend(s[i:])
+
+        return "".join(ans)
+    
+    print(solve())
