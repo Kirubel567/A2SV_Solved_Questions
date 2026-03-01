@@ -14,6 +14,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -54,6 +55,7 @@
 | [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Array
 |  |
@@ -72,6 +74,7 @@
 | [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -156,4 +159,5 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
