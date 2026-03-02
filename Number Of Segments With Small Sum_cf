@@ -1,0 +1,15 @@
+n, k = map(int, input().split())
+lst = list(map(int, input().split()))
+
+left = 0
+Sum = 0
+ans = 0
+for r in range(len(lst)): 
+    Sum += lst[r]
+
+    while Sum > k: 
+        Sum -= lst[left] 
+        left += 1
+    
+    ans += r - left + 1
+print(ans)
