@@ -86,6 +86,7 @@
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,4 +172,5 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
