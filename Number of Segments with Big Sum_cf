@@ -1,0 +1,13 @@
+n, k = map(int, input().split())
+lst = list(map(int, input().split()))
+ 
+_sum, right, ans = 0, 0, 0
+ 
+for left in range(len(lst)): 
+    while right < len(lst) and _sum < k: 
+        _sum += lst[right]
+        right += 1
+    if _sum >= k: 
+        ans += len(lst)-right +1
+    _sum -= lst[left]
+print(ans)
