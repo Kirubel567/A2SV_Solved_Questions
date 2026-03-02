@@ -32,6 +32,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0848-shifting-letters](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -74,6 +75,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0848-shifting-letters](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -171,6 +173,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
