@@ -69,6 +69,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0643-maximum-average-subarray-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -159,5 +160,6 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
