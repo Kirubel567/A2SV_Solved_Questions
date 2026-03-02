@@ -80,6 +80,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -165,4 +166,8 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
