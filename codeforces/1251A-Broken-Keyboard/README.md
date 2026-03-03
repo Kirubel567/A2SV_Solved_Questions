@@ -1,6 +1,6 @@
 # 1251A-Broken-Keyboard
 
-**Problem:** [1251A-Broken-Keyboard](https://codeforces.com/contest/1251/problem/A)
+**Problem:** [1251A-Broken-Keyboard](https://codeforces.com/problemset/problem/1251/A)
 
 **time limit per test:** 1 second
 
