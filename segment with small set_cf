@@ -1,0 +1,16 @@
+from collections import defaultdict
+n, k = map(int, input().split())
+lst = list(map(int, input().split()))
+ 
+freq = defaultdict(int)
+left = ans = 0
+for r in range(len(lst)): 
+    freq[lst[r]] += 1
+    while len(freq) > k: 
+        freq[lst[left]] -= 1
+        if freq[lst[left]] == 0: 
+            freq.pop(lst[left])
+        left +=1 
+    ans += r - left + 1
+ 
+print(ans)
