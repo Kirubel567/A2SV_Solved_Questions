@@ -17,8 +17,8 @@ class BrowserHistory:
         added_node = Node(url)
         self.start += 1
 
-        
-        self.head.next = None
+
+        # make end = 0, or the current added_node is the last 
         self.end = 0
 
         #now connect the head to the new added_node 
