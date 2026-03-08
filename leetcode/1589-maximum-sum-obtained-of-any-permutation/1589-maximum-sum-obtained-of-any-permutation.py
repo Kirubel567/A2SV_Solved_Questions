@@ -7,8 +7,9 @@ class Solution:
             pref_sum[start] += 1
             pref_sum[end+1] -= 1
         
-        for i in range(1, len(pref_sum)): 
-            pref_sum[i] += pref_sum[i-1]
+        _sum = 0
+        pref_sum = [_sum := _sum + pref_sum[i] for i in range(len(pref_sum))]
+        
         
         nums.sort()
         pref_sum = pref_sum[:-1]
