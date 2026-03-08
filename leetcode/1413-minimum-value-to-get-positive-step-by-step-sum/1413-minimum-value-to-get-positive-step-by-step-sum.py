@@ -1,9 +1,9 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-        min_sum = float('inf')
-        accumulate = 0
-        for i in range(len(nums)): 
-            accumulate += nums[i]
-
-            min_sum = min(min_sum, accumulate)
-        return max(1, 1-min_sum)
+        _sum = 0 
+        startValue = -float('inf')
+        for num in nums: 
+            _sum += num 
+            if _sum < 0: 
+                startValue = max(startValue, abs(_sum)+1)
+        return startValue if startValue != -float('inf') else 1
