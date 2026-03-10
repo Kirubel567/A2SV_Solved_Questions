@@ -13,6 +13,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -72,6 +73,7 @@
 | [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
@@ -184,4 +186,12 @@
 | [1480-running-sum-of-1d-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
