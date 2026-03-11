@@ -34,6 +34,7 @@
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0848-shifting-letters](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
