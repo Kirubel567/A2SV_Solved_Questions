@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,6 +191,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
