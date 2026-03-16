@@ -140,6 +140,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -163,6 +164,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Counting Sort
 |  |
 | ------- |
