@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def removeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        mon_dec =deque()
+        mon_dec =[]
         curr = head
         while curr: 
             while mon_dec and curr.val>mon_dec[-1].val: 
@@ -13,9 +13,7 @@ class Solution:
             mon_dec.append(curr)
             curr=curr.next
 
-        head = mon_dec.popleft()
-        curr = head
-        while mon_dec:
-            curr.next=mon_dec.popleft()
-            curr=curr.next
-        return head 
+        for i in range(len(mon_dec)-1): 
+            mon_dec[i].next=mon_dec[i+1]
+
+        return mon_dec[0]
