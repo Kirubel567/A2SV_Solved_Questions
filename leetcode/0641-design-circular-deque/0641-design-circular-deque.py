@@ -1,54 +1,80 @@
+class Node: 
+    def __init__(self, val): 
+        self.val = val
+        self.next = None
+        self.prev = None
+    
 class MyCircularDeque:
 
     def __init__(self, k: int):
-        self.que = deque()
         self.k = k
+        self.count = 0
+        self.head = None
+        self.tail = None
 
     def insertFront(self, value: int) -> bool:
-        if len(self.que)<self.k:
-            self.que.appendleft(value)
-            return True 
-        else: 
+        if self.isFull():
             return False
+        if not self.head:
+            self.head = Node(value)
+            self.tail = self.head 
+        else:
+            added = Node(value)
+            added.next = self.head
+            self.head.prev = added 
+            self.head = added
+        self.count+=1
+        return True
 
     def insertLast(self, value: int) -> bool:
-        if len(self.que)<self.k:
-            self.que.append(value)
-            return True 
-        else: 
+        if self.isFull():
             return False
+        if not self.head:
+            self.tail = Node(value)
+            self.head = self.tail 
+        else:
+            added = Node(value)
+            added.prev = self.tail
+            self.tail.next = added 
+            self.tail = added
+        self.count+=1
+        return True
 
     def deleteFront(self) -> bool:
-        if self.que:
-            self.que.popleft()
-            return True 
-        else:
-            return False
+        if self.isEmpty(): 
+            return False 
+        if self.head == self.tail: 
+            self.head = self.tail = None
+        else: 
+            self.head = self.head.next
+            self.head.prev = None
+        self.count -= 1
+        return True 
 
     def deleteLast(self) -> bool:
-        if self.que:
-            self.que.pop()
-            return True 
-        else: 
+        if self.isEmpty(): 
             return False
+        if self.head == self.tail: 
+            self.head = self.tail = None
+        else: 
+            self.tail = self.tail.prev
+            self.tail.next = None
+
+        self.count-=1
+        return True 
 
     def getFront(self) -> int:
-        if self.que:
-            return self.que[0]
-        else: 
-            return -1
+        return self.head.val if not self.isEmpty() else -1
 
     def getRear(self) -> int:
-        if self.que:
-            return self.que[-1]
-        else: 
-            return -1
+        return self.tail.val if not self.isEmpty() else -1
 
     def isEmpty(self) -> bool:
-        return not self.que
+        return True if not self.head else False
 
     def isFull(self) -> bool:
-        return len(self.que) == self.k
+        return True if self.count == self.k else False
+        
 
 
 # Your MyCircularDeque object will be instantiated and called as such:
