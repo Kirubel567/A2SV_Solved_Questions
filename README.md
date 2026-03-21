@@ -200,4 +200,20 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Depth-First Search
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Binary Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
