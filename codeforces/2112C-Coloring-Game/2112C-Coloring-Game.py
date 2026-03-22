@@ -1,25 +1,20 @@
-import sys
-input = sys.stdin.readline
-
 t = int(input())
-for _ in range(t):
+for _ in range(t): 
     n = int(input())
-    a = list(map(int, input().split()))
-    
-    M = a[-1] 
-    ans = 0
+    lst = list(map(int, input().split()))
 
-    for k in range(2, n):
-        z = a[k]
-        T = max(z, M - z)
+    _max = lst[n-1]
+    counter =0
+    for k in range(2, len(lst)): #start from 2 as z is the max and elem at 0 and 1 can't be max
+        z = lst[k]
+        diff = max(z, _max-z)
 
-        i, j = 0, k - 1
-
-        while i < j:
-            if a[i] + a[j] > T:
-                ans += (j - i)
+        i = 0
+        j = k-1
+        while i < j: 
+            if lst[i] + lst[j] > diff: 
+                counter += (j-i)
                 j -= 1
-            else:
+            else: 
                 i += 1
-
-    print(ans)
+    print(counter)
