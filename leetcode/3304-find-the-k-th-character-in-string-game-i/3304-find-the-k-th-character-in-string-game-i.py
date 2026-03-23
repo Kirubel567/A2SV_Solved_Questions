@@ -1,19 +1,13 @@
 class Solution:
     def kthCharacter(self, k: int) -> str:
-        st = "a"
-        def recur():
-            nonlocal st
+        def recur(st): 
             if len(st) >= k: 
-                return 
+                return st
             
-            _new = []
+            _num = []
             for i in range(len(st)): 
-                _new.append(chr(ord(st[i])+1))
-
-            st += "".join(_new)
-            recur()
-
-        recur()
-        return st[k-1]
+                _num.append(chr(ord(st[i])+1))
+            return recur(st + "".join(_num))
 
 
+        return recur("a")[k-1]
