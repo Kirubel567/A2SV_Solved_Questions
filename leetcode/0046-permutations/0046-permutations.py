@@ -6,12 +6,10 @@ class Solution:
             if not candidates: 
                 ans.append(path.copy())
 
-            for candidate in candidates: 
-                path.append(candidate) 
+            for i in range(len(candidates)): 
+                path.append(candidates[i]) 
 
-                current_candidate = candidates[:]
-                current_candidate.remove(candidate)
-                backtrack(current_candidate)
+                backtrack(candidates[:i]+candidates[i+1:])
 
                 path.pop()
         backtrack(nums)
