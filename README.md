@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
