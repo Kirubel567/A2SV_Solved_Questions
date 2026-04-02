@@ -6,4 +6,4 @@ class Solution:
             if value > len(nums)//3: 
                 ans.append(key)
         return ans 
-        
+         
