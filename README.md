@@ -111,6 +111,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -221,4 +222,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
