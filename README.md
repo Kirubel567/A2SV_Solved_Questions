@@ -28,6 +28,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -226,4 +227,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
