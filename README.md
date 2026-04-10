@@ -39,6 +39,7 @@
 | [0856-score-of-parentheses](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -170,6 +171,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0071-simplify-path](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,4 +236,5 @@
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0306-additive-number) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
