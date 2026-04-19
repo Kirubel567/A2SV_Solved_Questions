@@ -12,6 +12,7 @@
 | [0383-ransom-note](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -47,6 +48,7 @@
 | [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -77,6 +79,7 @@
 | [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
