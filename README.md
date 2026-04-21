@@ -45,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +76,7 @@
 | [0048-rotate-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
