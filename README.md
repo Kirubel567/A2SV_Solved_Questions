@@ -74,6 +74,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
@@ -241,6 +242,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0306-additive-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
