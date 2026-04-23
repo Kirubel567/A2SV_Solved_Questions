@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
@@ -242,6 +243,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0306-additive-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
