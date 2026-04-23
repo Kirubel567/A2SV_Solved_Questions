@@ -6,25 +6,35 @@
 #         self.right = right
 class Solution:
     def maxSumBST(self, root: Optional[TreeNode]) -> int:
+        _sum =0
+        result = 0
+        #max should be the least number float('-inf')
+        #min should be the largest numbe float('inf')
 
-        self.best = 0
+        #[max, min, sum]
+        #right side 
+        #max
+        #min -> this is what matters 
+        #left_side
+        #max -> this is what matters 
+        #min 
 
-        def dfs(node):
-            if not node:
-                return True,float('inf'),float('-inf'),0
+        def dfs(node): 
+            nonlocal result
+            #base case, when null the sum would be 0
+            if not node: 
+                return [-float('inf'), float('inf'), 0]
+            
+            left_side=dfs(node.left)
+            right_side=dfs(node.right)
 
-            lbst,lmin,lmax,lsum = dfs(node.left)
-            rbst,rmin,rmax,rsum = dfs(node.right)
+            if node.val <= left_side[0] or node.val >= right_side[1]: 
+                return [float('inf'), -float('inf'), 0]
+            
+            _sum = left_side[2]+node.val+right_side[2]
+            result = max(result, _sum)
 
-            if lbst and rbst and lmax < node.val < rmin:
-                total = lsum + rsum + node.val
-                self.best = max(self.best,total)
-
-                return True,min(lmin,node.val),max(rmax,node.val),total
-
-            return False,float('-inf'),float('inf'),0
-
-        dfs(root)
-
-        return self.best
+            return [max(left_side[0], node.val, right_side[0]), min(left_side[1], right_side[1], node.val),  _sum]
         
+        dfs(root)
+        return result
