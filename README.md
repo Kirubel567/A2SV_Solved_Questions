@@ -223,10 +223,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -247,4 +249,12 @@
 | [0051-n-queens](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0306-additive-number](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0306-additive-number) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
