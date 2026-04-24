@@ -13,7 +13,6 @@ class Solution:
                     ans.append(path.copy())
                     seen.add(tuple(sorted(path)))
 
-
         backtrack(nums)
         return ans 
             
