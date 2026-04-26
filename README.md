@@ -15,6 +15,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -52,6 +53,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0645-set-mismatch](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -88,6 +90,7 @@
 | [0496-next-greater-element-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0848-shifting-letters) |
@@ -159,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Heap (Priority Queue)
 |  |
