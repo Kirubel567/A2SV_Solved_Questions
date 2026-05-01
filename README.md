@@ -105,6 +105,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2418-sort-the-people](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -157,6 +158,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
@@ -229,11 +231,13 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,4 +265,9 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
