@@ -11,4 +11,4 @@ class Solution:
             else: 
                 stk.append(path[i])
         
-        return "/" + "/".join(stk) 
+        return "/" + "/".join(stk)  
