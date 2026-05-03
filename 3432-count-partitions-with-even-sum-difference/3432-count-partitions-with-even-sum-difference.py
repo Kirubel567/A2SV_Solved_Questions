@@ -8,4 +8,4 @@ class Solution:
             if (accumulate - (total_sum - accumulate))%2==0: 
                 count += 1
             
-        return count 
+        return count  
