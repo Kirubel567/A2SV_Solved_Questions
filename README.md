@@ -232,12 +232,14 @@
 | [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,8 +268,13 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Geometry
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+## Topological Sort
+|  |
+| ------- |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kirubel567/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
