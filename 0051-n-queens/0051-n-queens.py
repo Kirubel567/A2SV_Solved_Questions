@@ -14,7 +14,7 @@ class Solution:
             for col in range(n): 
                 if isSafe(row, col): 
                     board[row][col] = "Q"
-                    backtrack(row+1)
+                    backtrack(row+1) 
                     board[row][col] = "."
         def isSafe(row, col): 
             for i in range(row): 
