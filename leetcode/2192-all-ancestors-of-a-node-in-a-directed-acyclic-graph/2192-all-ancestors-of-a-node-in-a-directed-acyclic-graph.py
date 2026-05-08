@@ -1,23 +1,33 @@
-class Solution(object):
-    def getAncestors(self, n, edges):
-        res = [[] for _ in range(n)]
-        graph = [[] for _ in range(n)]
+class Solution:
+    def getAncestors(self, n: int, edges: List[List[int]]) -> List[List[int]]:
+        curr = []
+        #add the parents for each of the children on the curr and append them to the 
+        #create adjecency? 
+        # iterate over the adjecencies and create a dictionary of each of the elements of the adjecency list elements as key 
+        mapp = defaultdict(list)
         
-        for edge in edges:
-            graph[edge[0]].append(edge[1])
-        
-        for i in range(n):
-            self.dfs(graph, i, i, res, [False] * n)
-        
-        for i in range(n):
-            res[i].sort()
-        
-        return res
-    
-    def dfs(self, graph, parent, curr, res, visit):
-        visit[curr] = True
-        for dest in graph[curr]:
-            if not visit[dest]:
-                res[dest].append(parent)
-                self.dfs(graph, parent, dest, res, visit)
-        
+        for parent, child in edges: 
+            mapp[child].append(parent)
+
+
+        ans = [[] for _ in range(n)]
+        def dfs(start_node, curr_node, visited): 
+            nonlocal ans
+            
+            for parent in mapp[curr_node]: 
+                if parent not in visited: 
+                    visited.add(parent)
+                    ans[start_node].append(parent)
+                    dfs(start_node, parent, visited)
+
+                
+
+        for i in range(n): 
+            visited = set()
+
+            dfs(i, i, visited)
+
+            ans[i].sort()
+
+
+        return ans 
