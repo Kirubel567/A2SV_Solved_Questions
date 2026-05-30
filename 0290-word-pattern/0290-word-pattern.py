@@ -1,7 +1,7 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         mapp = {}
-        arr = s.split()
+        arr = s.split() 
         if len(arr) != len(pattern): 
             return False
             
